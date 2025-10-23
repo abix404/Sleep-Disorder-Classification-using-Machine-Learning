@@ -27,9 +27,9 @@ Sleep is a vital component of human health, yet sleep disorders such as insomnia
 
 ### 👤 Project Owner
 
-| Name | ID |
-|------|-----|
-| Bokhtear Md. Abid | - |
+| Name | 
+|------|
+| Bokhtear Md. Abid |
 
 ---
 
